@@ -1,3 +1,3 @@
 # DAO
 
-Unfinished project, I've been working on this - going through one of the Moralis projects in my spare time to learn how their platform operates.
+Unfinished project, however the bones of the project are there. It's just improvement and adding additional functionality from herein.
